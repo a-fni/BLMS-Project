@@ -6,6 +6,8 @@ datasets), the dataset and main source code of the final project for the
 course.\
 This project was developed in group (made up of 4) and represented the final examination of the aforementioned course.
 
+The final score obtained with this source code was 30 out of 30 with honours.
+
 ## Description of the project
 The detailed version of the assignment can be found under `assignment/Project2025.pdf` under
 paragraph 3.6. It consists in modelling two time-series (US GDP and ICP) in order to make predictions
